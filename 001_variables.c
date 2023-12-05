@@ -18,5 +18,7 @@ printf("My CGPA is %f \n", cgpa);
 printf("My grade is %c \n", grade);
 printf("My C programming age is %d \n", age);
 
+printf("My name is %s, I had a %c in the physiology course and my cgpa is %f", name, grade, cgpa);
+
 return 0;
 }
